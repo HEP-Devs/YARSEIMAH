@@ -62,7 +62,6 @@
 
 ## 📮 ارتباط
 
-[![GitHub](https://img.shields.io/badge/GitHub-HEP--Devs-181717?logo=github)](https://github.com/HEP-Devs/YARSEIMAH)
 [![Telegram](https://img.shields.io/badge/Telegram-@hepdev-26A5E4?logo=telegram)](https://t.me/hepdev)
 
 </div>
