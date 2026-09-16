@@ -1,4 +1,4 @@
-[<img src="https://raw.githubusercontent.com/HEP-Devs/YARSEIMAH/refs/heads/main/Assets/YARSEIMAH_Preview.png" width="720" height="405" alt="یارسیماه"/>](https://raw.githubusercontent.com/HEP-Devs/YARSEIMAH/refs/heads/main/Assets/What%20is%20YARSEIMAH.mp4)
+
 
 <div dir="rtl">
 
