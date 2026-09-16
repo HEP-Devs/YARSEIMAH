@@ -11,7 +11,7 @@ https://github.com/user-attachments/assets/0391de8b-5f18-4eec-a9c7-5fcd2d4bf6b5
 ## 🚀 شروع سریع
 
 1. فایل `yarseimah.html` را از بخش [Releases](https://github.com/HEP-Devs/YARSEIMAH/releases/latest) دانلود کنید.
-2. در [Google AI Studio](https://aistudio.google.com/) وارد شوید و از بخش **Get API key** یک کلید بسازید.
+2. در [Google AI Studio](https://aistudio.google.com/api-keys) وارد شوید و از بخش **Create API key** یک کلید بسازید.
 3. فایل را در مرورگر باز کنید، کلید را وارد کرده و «آزمایش اتصال» را بزنید. ✅
 
 <br>
